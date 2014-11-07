@@ -1,4 +1,4 @@
-##Input files
+##Input files Updates
 test.body.acc.x<-read.table("E:/coursera/Getting and cleaning data/final project/UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt")
 
 test.body.acc.y<-read.table("E:/coursera/Getting and cleaning data/final project/UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt")
